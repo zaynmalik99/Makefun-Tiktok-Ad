@@ -13,7 +13,7 @@ script, the visuals, the music, and the on-screen brand pack were all produced b
 agent, then posted publicly on TikTok.
 
 Watch the ad here:
-**https://www.tiktok.com/@dede_1312/video/7711007139988245780**
+**https://www.tiktok.com/@ramdanyowwww/video/7711025724970241301**
 
 The file `VIDEO.json` in this repo names that exact video — it is the hand-in record
 for the bounty.
